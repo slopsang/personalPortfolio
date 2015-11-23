@@ -2,7 +2,7 @@
 
 What is the URL of this project on your student web-server?
 
-- http://students.washington.edu/sangkim1/info343/personal
+- http://students.washington.edu/sangkim1/info343/personalPortfolio/#/
 
 Did you receive help from any other sources (classmates, etc.)? If so, please list who.
 
